@@ -63,6 +63,7 @@ If you wish to credit our work, please do so as “© DIYbiosphere contributors�
 [entry]: http://sphere.diybio.org/database/projects/DIYbiosphere-ZZ
 [github pages]: https://pages.github.com/
 [Markdown]: https://guides.github.com/features/mastering-markdown/
+[Add]: http://sphere.diybio.org/help/tutorials/add-entry/
 [issues]: https://github.com/DIYbiosphere/sphere.dir/issues
 [Gitter]: https://gitter.im/DIYbiosphere/sphere.dir?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
 [Slack]: https://diybiosphere.herokuapp.com/
